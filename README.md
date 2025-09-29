@@ -1,13 +1,15 @@
-# Mini-site Bootstrap
+# 📄 Mini-site Bootstrap
 
-## Objectif
-Réaliser un mini-site de trois pages (Accueil, Tarifs, Devis) en utilisant exclusivement le framework Bootstrap.
+## 🎯 Objectif
+Réaliser un mini-site de trois pages (**Accueil**, **Tarifs**, **Devis**) en utilisant exclusivement le framework **Bootstrap** pour la mise en forme.
 
-## Compétences mises en avant
+## 🛠️ Compétences mises en avant
 - HTML
 - CSS
 - Bootstrap
 - Responsive design
 
-## Installation
-Cloner le projet puis ouvrir `index.html` dans un navigateur.
+## 🚀 Installation
+1. Cloner ce dépôt  
+   ```bash
+   git clone https://github.com/TonPseudo/projet-bootstrap.git
