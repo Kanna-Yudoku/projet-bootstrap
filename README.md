@@ -12,4 +12,4 @@ Réaliser un mini-site de trois pages (**Accueil**, **Tarifs**, **Devis**) en ut
 ## 🚀 Installation
 1. Cloner ce dépôt  
    ```bash
-   git clone https://github.com/TonPseudo/projet-bootstrap.git
+   git clone https://github.com/Lorene-LP/projet-bootstrap.git
